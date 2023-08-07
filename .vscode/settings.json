@@ -1,0 +1,137 @@
+{
+    /* Archivos */
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "files.autoSave": "onFocusChange",
+    "files.associations": {
+        "*.md":"mdx"
+    },
+    /* Interfaz */
+    "workbench.colorTheme": "codewithhanbal-updated-theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 1,
+
+    /* Apariencia */
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": true,
+    "workbench.editor.tabCloseButton": "left",
+
+    /* Explorador */
+    "explorer.sortOrder": "type",
+    "explorer.autoReveal": false,
+    "explorer.openEditors.visible": 0,
+
+    /* Terminal */
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontFamily": "Victor Mono",
+
+    /* Formato */
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+
+    /* Fuentes */
+    "editor.fontFamily": "Victor Mono",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "500",
+
+    /* Código/Texto */
+    "editor.renderLineHighlight": "none",
+    "editor.occurrencesHighlight": false,
+    "editor.renderWhitespace":"selection",
+
+    /* Indentación y espaciado */
+    "editor.detectIndentation": false,
+    "editor.folding": false,
+    "editor.glyphMargin": false,
+
+
+    /* Cursor */
+    "editor.cursorStyle":"line-thin",
+    "editor.cursorBlinking": "expand",
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.cursorSmoothCaretAnimation":"on",
+
+    /* Extra */
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+        "editor.colorDecorators": false,
+        "editor.linkedEditing": true,
+    "editor.minimap.enabled": false,
+    "editor.suggestSelection": "first",
+    "editor.matchBrackets": "never",
+    "breadcrumbs.enabled": false,
+    "javascript.validate.enable": false,
+    "mdx.preview.fontFamily": "Victor Mono",
+    "[mdx]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.unicodeHighlight.ambiguousCharacters": false,
+        "editor.unicodeHighlight.invisibleCharacters": false,
+        "diffEditor.ignoreTrimWhitespace": false,
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        },
+        "togglequotes.chars": [
+            "\"",
+            "'",
+            "`"
+        ],
+        "files.trimTrailingWhitespace": false
+    },
+    "editor.quickSuggestionsDelay": 120,
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": true,
+        "strings": "off"
+    },
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (EEx)",
+        "HTML (Eex)",
+        "plist",
+        "mdx"
+    ],
+"editor.stickyScroll.enabled": true,
+    /* CodeSnap */
+    "codesnap.boxShadow": "0",
+    "codesnap.containerPadding": "0",
+    "codesnap.showWindowControls": false,
+    "codesnap.showWindowTitle": false,
+    "codesnap.showLineNumbers": false,
+    "codesnap.transparentBackground": true,
+    "editor.tabCompletion": "on",
+    "diffEditor.codeLens": true,
+
+    /* React */
+    "reactSnippets.settings.importReactOnTop": false,
+    "editor.snippetSuggestions": "top",
+    "reactSnippets.settings.prettierEnabled": true,
+    "reactSnippets.settings.typescript": true,
+    "reactSnippets.settings.languageScopes": "typescript,typescriptreact,javascript,javascriptreact",
+
+    "prettier.jsxSingleQuote": true,
+
+}
